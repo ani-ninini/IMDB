@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.loginContainer {
+  width: 100%;
+}
+
+.signupContainer {
+  width: 50%;
+  align-content: center;
+}
+.loginInputText {
+  width: 30%;
+  height: 20px;
+}
